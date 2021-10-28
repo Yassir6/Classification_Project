@@ -1,6 +1,6 @@
 # Individuals Annual Income In The US
 ## Background
-In the USA many people are immigrating from different countries, backgrounds, cultures, and ethnicity to work and live the United States, which makes it one of the most diverse countries in the world.
+In the USA many people are immigrating from different countries, backgrounds, cultures, and ethnicity to work and live the United States, which makes it one of the most diverse country in the world.
 ## Project Scope
 our goal is to build a classification model to predict whether a person's total income is over 50K or under 50K a year. That can be achieved by collecting a large dataset with many features and observations.
 ## Data Description
