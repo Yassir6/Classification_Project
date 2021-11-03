@@ -1,8 +1,8 @@
-# Individuals Annual Income In The US
+# Individuals Annual Income In The USA
 ## Introduction: 
 The goal of the project is to build a classification model to accurately predict whether annual income is more than 50k or less than 50k. 
 ## process: 
-After we imported the data we have done several EDAs and Data cleaning, then we set a baseline by building a kNN model. After that we constructed other models such as logistic regression,logsticRegression_weight3, Random Forest, and other models then we started to compare between them. 
+After we imported the data we have done several EDAs and Data cleaning, then we set a baseline by building a kNN model. After that we constructed other models such as logistic regression,logsticRegression_weight3, Random Forest, and other models, then we started to compare between them. 
 
 ## Graphs:
 ### ROC:
